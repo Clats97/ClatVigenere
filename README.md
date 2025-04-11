@@ -8,3 +8,11 @@ There will only be an Android version of this app, so requesting an iOS app will
 If you go to my other repositories, you will see that I have a CLI and GUI Python script that does exactly what this app does. 
 
 Have fun!
+
+**Author**
+
+Joshua M Clatney (Clats97)
+
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
